@@ -1,0 +1,27 @@
+body{
+    background-color: bisque;
+    color: red;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    min-height: 35vmax;
+}
+
+#game{
+    font-size: 45px;
+    font-weight: 610;
+    padding: 20px;
+    border:5px solid #d89156;
+    color: #ca2424;
+    
+    
+}
+.container{
+    text-align: left;
+    padding: 2rem;
+    border-radius: 5px;
+    background-color: #fff;
+    margin-top: 190px;
+    font-size: 25px;
+    color: black;
+}
